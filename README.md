@@ -1,0 +1,5 @@
+- No renaming
+- No Editing variations
+- No Mouse Keybinds
+- No Adjusting Variation Volume
+- No View Variations
